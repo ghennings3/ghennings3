@@ -14,8 +14,8 @@
 <br>
 
 <div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ghennings3&show_icons=true&theme=radical" alt="Gustavo's github stats" /> 
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghennings3&theme=radical&layout=compact" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ghennings3&show_icons=true&theme=dark" alt="Gustavo's github stats" /> 
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghennings3&theme=dark&layout=compact" />
 </div>
 
 ##
