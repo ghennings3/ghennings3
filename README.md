@@ -1,7 +1,9 @@
 <div>
   <h1 align="center">Hello! I'm Gustavo Hennings</h1>
   <h3 align="center">Front-End Developer in Blumenau/SC</h3>
-  <b>`プ ロ グ ラ マ`</b>
+  <p align="center">
+    <b>`プ ロ グ ラ マ`</b>
+  </p>
 </div>
 <br>
 
@@ -14,11 +16,9 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghennings3&theme=transparent" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghennings3&theme=transparent" height="150" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ghennings3&theme=transparent" alt="GitHub Streak" /></a>
-</div>
+| Estatísticas | Linguagens | Streak |
+| :---: | :---: | :---: |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghennings3&theme=transparent) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghennings3&theme=transparent) | ![](https://github-readme-streak-stats-eight.vercel.app/?user=ghennings3&theme=transparent) |
 
 ##
 
