@@ -1,6 +1,7 @@
 <div>
   <h1 align="center">Hello! I'm Gustavo Hennings</h1>
   <h3 align="center">Front-End Developer in Blumenau/SC</h3>
+  <b>`プ ロ グ ラ マ`</b>
 </div>
 <br>
 
@@ -14,8 +15,9 @@
 <br>
 
 <div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ghennings3&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Gustavo's github stats" /> 
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghennings3&hide_border=true&theme=radical&layout=compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghennings3&theme=transparent" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghennings3&theme=transparent" height="150" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ghennings3&theme=transparent" alt="GitHub Streak" /></a>
 </div>
 
 ##
