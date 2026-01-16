@@ -2,7 +2,7 @@
   <h1 align="center">Hello! I'm Gustavo Hennings</h1>
   <h3 align="center">Front-End Developer in Blumenau/SC</h3>
   <p align="center">
-    <b>`プ ロ グ ラ マ`</b>
+    <b>プ ロ グ ラ マ</b>
   </p>
 </div>
 <br>
