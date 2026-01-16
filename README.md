@@ -7,14 +7,12 @@
 </div>
 <br>
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghennings3&count_bg=%2321262d&title_bg=%2321262d&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Views"/>
-</p>
+![](https://komarev.com/ghpvc/?username=ghennings3)
 
 <div>
   <p>Connect with me:</p>  
   <p>
-  <a href="https://www.linkedin.com/in/SEU_LINK">
+  <a href="https://br.linkedin.com/in/gustavohennings">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -27,9 +25,6 @@
 | Estatísticas | Linguagens | Streak |
 | :---: | :---: | :---: |
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghennings3&theme=transparent) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghennings3&theme=transparent) | ![](https://github-readme-streak-stats-eight.vercel.app/?user=ghennings3&theme=transparent) |
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ghennings3&layout=compact&theme=transparent" alt="WakaTime Stats" />
-</div>
 
 ### 🛠️ Tecnologias e Ferramentas
 
